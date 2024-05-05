@@ -1,0 +1,29 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "pen",
+        "unitCost": 10
+      },
+      {
+        "id": 2,
+        "name": "Pencil",
+        "unitCost": 5
+      },
+      {
+        "id": 3,
+        "name": "Bag",
+        "unitCost": 100
+      },
+      {
+        "id": 4,
+        "name": "charger",
+        "unitCost": 700
+      },
+      {
+        "name": "Bottle",
+        "unitCost": 500,
+        "id": 5
+      }
+    ]
+  }
